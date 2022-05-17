@@ -1,0 +1,15 @@
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\bin\Debug\net6.0\lab-0---first-c-jaimec1803.exe
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\bin\Debug\net6.0\lab-0---first-c-jaimec1803.deps.json
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\bin\Debug\net6.0\lab-0---first-c-jaimec1803.runtimeconfig.json
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\bin\Debug\net6.0\lab-0---first-c-jaimec1803.dll
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\bin\Debug\net6.0\lab-0---first-c-jaimec1803.pdb
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.csproj.AssemblyReference.cache
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.AssemblyInfoInputs.cache
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.AssemblyInfo.cs
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.csproj.CoreCompileInputs.cache
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.dll
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\refint\lab-0---first-c-jaimec1803.dll
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.pdb
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\lab-0---first-c-jaimec1803.genruntimeconfig.cache
+C:\Users\jaime\my-code-dir\lab-0---first-c-jaimec1803\obj\Debug\net6.0\ref\lab-0---first-c-jaimec1803.dll
